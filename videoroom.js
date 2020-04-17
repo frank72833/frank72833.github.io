@@ -44,7 +44,7 @@
 //
 var server = null;
 // if(window.location.protocol === 'http:')
-	server = "http://192.168.1.103:8088/janus"; // window.location.hostname
+	server = "https://192.168.1.103:8088/janus"; // window.location.hostname
 // else
 	// server = "https://localhost:8089/janus"; // window.location.hostname
 
